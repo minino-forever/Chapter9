@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36212.18 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGC", "SimpleGC\SimpleGC.csproj", "{1B651417-6850-48A3-8D4D-F0907B1D8A3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDispose", "SimpleDispose\SimpleDispose.csproj", "{5CAC22FC-47DB-4979-A831-0F6E74BBF046}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1B651417-6850-48A3-8D4D-F0907B1D8A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B651417-6850-48A3-8D4D-F0907B1D8A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B651417-6850-48A3-8D4D-F0907B1D8A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CAC22FC-47DB-4979-A831-0F6E74BBF046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAC22FC-47DB-4979-A831-0F6E74BBF046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAC22FC-47DB-4979-A831-0F6E74BBF046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAC22FC-47DB-4979-A831-0F6E74BBF046}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
